@@ -63,7 +63,7 @@
 /* THEME SPECIFIC SHADING */
 /* LIGHT THEME */
 :is(.theme-light, .theme-dark .theme-light) {
-  --background-shading: rgba(80, 80, 80, 0.116); /* app background shading color [default: rgba(252, 252, 252, 0.3)] */
+  --background-shading: rgba(69, 69, 69, 0.116); /* app background shading color [default: rgba(252, 252, 252, 0.3)] */
   --card-shading: rgba(121, 121, 121, 0.171); /* cards background shading color [default: rgba(252, 252, 252, 0.3)] */
   --popout-shading: rgba(121, 121, 121, 0.171); /* popouts background shading color [default: rgba(252, 252, 252, 0.7)] */
   --modal-shading: rgba(252, 252, 252, 0.247); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
