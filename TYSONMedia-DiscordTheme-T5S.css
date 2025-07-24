@@ -1,7 +1,7 @@
 /**
  * @name TYSON Media Discord Theme Canary Version
  * @author T5S Development Team
- * @version 1.5.1 Aclontara
+ * @version 1.5.3.2
  * @description Made and Developed by Tyler Custine
  * @source https://github.com/TYSONTECH/t5stheme
  * @website https://tysonportal.my.canva.site/tcustard25
@@ -97,7 +97,7 @@
 /* ONYX THEME */
 :is(.theme-midnight, .theme-light .theme-midnight) {
   --background-shading: rgba(0, 0, 0, 0.8); /* app background shading color [default: rgba(0, 0, 0, 0.8)] */
-  --card-shading: rgba(0, 0, 0, 0.4); /* cards background shading color [default: rgba(0, 0, 0, 0.4)] */
+  --card-shading: rgba(0, 0, 0, 0.3); /* cards background shading color [default: rgba(0, 0, 0, 0.4)] */
   --popout-shading: rgba(0, 0, 0, 0.8); /* popouts background shading color [default: rgba(0, 0, 0, 0.8)] */
   --modal-shading: rgba(0, 0, 0, 0.6); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
   --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
